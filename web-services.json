@@ -1,4 +1,5 @@
- { "id": 1, 
+ { 
+  "id": 1, 
     "title": "Artificial Intelligence", 
     "intro": {
       "title": "Artificial Intelligence Services",
@@ -68,8 +69,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]   
     },
     "contact":{
       "title": "Contact us today to learn more about our AI development and Integration services and how we can help you achieve your business goals with AI.",
@@ -100,7 +100,8 @@
       ]
     }
   },
-  { "id": 2, 
+  { 
+   "id": 2, 
     "title": "Machine Learning", 
     "intro": {
       "title": "Machine Learning development services",
@@ -170,8 +171,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]   
     },
     "contact":{
       "title": "Contact us today to learn more about our Machine Learning services and how we can help you achieve your business goals.",
@@ -202,7 +202,8 @@
       ]
     }
   },
-  { "id": 3, 
+  { 
+   "id": 3, 
     "title": "Website Development", 
     "intro": {
       "title": "Web Development services",
@@ -285,8 +286,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]  
     },
     "contact":{
       "title": "Contact us today to learn more about our web development service and how we can help you achieve your business goals with Drupal/ PHP/Ruby/Python/Nodejs/Golang.",
@@ -317,7 +317,8 @@
       ]
     }
   },
-  { "id": 4, 
+  { 
+   "id": 4, 
     "title": "Website Designing", 
     "intro": {
       "title": "Web Designing services",
@@ -385,8 +386,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]   
     },
     "contact":{
       "title": "Contact us today to learn more about our web designing services and how we can help you achieve your business goals.",
@@ -417,7 +417,8 @@
       ]
     }
   },
-  { "id": 5, 
+  { 
+   "id": 5, 
     "title": "Drupal", 
     "intro": {
       "title": "Drupal Development Services",
@@ -453,7 +454,6 @@
           "text": "Unlock the potential of your online store with Drupal-powered e-commerce platforms. Our team integrates top-notch features like product catalogs, secure payment gateways, and advanced analytics.", 
           "image": "https://www.techinventive.com/img/drupal2.png" 
         }
-
       ]
     },
     "techStack": {
@@ -498,8 +498,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]  
     },
     "contact":{
       "title": "Contact us today to learn more about our Drupal website development service and how we can help you achieve your business goals with Drupal.",
@@ -530,7 +529,8 @@
       ]
     }
   },
-  { "id": 6, 
+  { 
+   "id": 6, 
     "title": "Ruby on Rails", 
     "intro": {
       "title": "Ruby on Rail development services",
@@ -597,8 +597,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]  
     },
     "contact":{
       "title": "Contact us today to learn more about our Ruby application development services and how we can help you achieve your business goals with Ruby & Ruby on Rails.",
@@ -629,7 +628,8 @@
       ]
     }
   },
-  { "id": 7, 
+  { 
+   "id": 7, 
     "title": "Python", 
     "intro": {
       "title": "Python development services",
@@ -700,8 +700,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ] 
     },
     "contact":{
       "title": "Contact us today to learn more about our Python development services and how we can help you achieve your business goals with Python.",
@@ -732,7 +731,8 @@
       ]
     }
   },
-  { "id": 8, 
+  { 
+   "id": 8, 
     "title": "Blockchain", 
     "intro": {
       "title": "Blockchain Development Services",
@@ -800,8 +800,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ] 
     },
     "contact":{
       "title": "Contact us today to learn more about our blockchain services and how we can help your business succeed in the digital age.",
@@ -832,7 +831,8 @@
       ]
     }
   },
-  { "id": 9, 
+  { 
+   "id": 9, 
     "title": "Game Development", 
     "intro": {
       "title": "Game Development Services",
@@ -901,7 +901,6 @@
             ]
           }
       ]
-        
     },
     "contact":{
       "title": "Contact us today to learn more about our game applications development services and how we can help you achieve your business goals with game development service.",
@@ -932,7 +931,8 @@
       ]
     }
   },
-  { "id": 10, 
+  { 
+   "id": 10, 
     "title": "Node.Js", 
     "intro": {
       "title": "Node Js development services",
@@ -999,8 +999,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]   
     },
     "contact":{
       "title": "Contact us today to learn more about our MEAN/MERN development services and how we can help you achieve your business goals with Node.js/Express.js.",
@@ -1031,7 +1030,8 @@
       ]
     }
   },
-  { "id": 11, 
+  { 
+   "id": 11, 
     "title": "Golang", 
     "intro": {
       "title": "Golang Development Services",
@@ -1096,8 +1096,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]    
     },
     "contact":{
       "title": "Contact us today to learn more about our Golang development services and how we can help you achieve your business goals with Golang & Go.",
@@ -1128,7 +1127,8 @@
       ]
     }
   },
-  { "id": 12, 
+  { 
+   "id": 12, 
     "title": "PSD to HTML", 
     "intro": {
       "title": "PSD to HTML Conversion Services",
@@ -1196,8 +1196,7 @@
                 "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
             ]
           }
-      ]
-        
+      ]  
     },
     "contact":{
       "title": "Contact us today to learn more about our PSD2HTML5 services and how we can help you achieve your business goals.",
