@@ -1,0 +1,1232 @@
+ [
+  { "id": 1, 
+    "title": "Artificial Intelligence", 
+    "intro": {
+      "title": "Artificial Intelligence Services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/ai_banner.png"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Techinventive for Your AI Needs", 
+          "text": "Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.", 
+          "image": "https://www.techinventive.com/img/techinventive_for_your_AI_Needs.svg" 
+        },
+        { "label": "Unlocking Business Potential", 
+          "text": "With our AI services, we help businesses leverage AI technologies to automate processes, gain valuable insights from data, and enhance customer experiences. Whether you're looking to implement AI-powered chatbots, predictive analytics, or machine learning algorithms, we have the expertise to meet your needs.", 
+          "image": "https://www.techinventive.com/img/AI_2.png" 
+        },
+        { "label": "Customized AI Solutions", 
+          "text": "At Techinventive Software, we understand that every business is unique, which is why we tailor our AI solutions to meet your specific requirements. Our goal is to help you stay ahead of the competition by leveraging the latest AI technologies.", 
+          "image": "https://www.techinventive.com/img/AI_3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+          { "label": "OpenAI", "image": "https://www.techinventive.com/img/services_icon/eos-icons_ai.svg" },
+          { "label": "ChatGPT", "image": "https://www.techinventive.com/img/services_icon/arcticons_openai-chatgpt.svg" },
+          { "label": "QuiliBot", "image": "https://www.techinventive.com/img/services_icon/bx_bot.svg" },
+          { "label": "Playground AI", "image": "https://www.techinventive.com/img/services_icon/tabler_input-ai.svg" },
+          { "label": "Python", "image": "https://www.techinventive.com/img/services_icon/Python.svg" },
+          { "label": "Ruby", "image": "https://www.techinventive.com/img/services_icon/Ruby.svg" },
+          { "label": "Pandas", "image": "https://www.techinventive.com/img/services_icon/devicon_pandas.svg" },
+          { "label": "NumPy", "image": "https://www.techinventive.com/img/services_icon/logos_numpy.svg" },
+          { "label": "PyTorch", "image": "https://www.techinventive.com/img/services_icon/skill-icons_pytorch-light.svg" },
+          { "label": "LangChain", "image": "https://www.techinventive.com/img/services_icon/file-icons_curl-lang.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our AI development and Integration services and how we can help you achieve your business goals with AI.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 2, 
+    "title": "Machine Learning", 
+    "intro": {
+      "title": "Machine Learning development services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/ml_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Unlocking Data Potential", 
+          "text": "Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data. Our team of machine learning experts is dedicated to delivering cutting-edge solutions tailored to your specific needs.", 
+          "image": "https://www.techinventive.com/img/ML1.png" 
+        },
+        { "label": "Driving Growth with Precision", 
+          "text": "With our machine learning services, we help businesses harness the power of predictive analytics, natural language processing, and computer vision to drive business growth and efficiency. Whether you're looking to improve customer engagement, optimize operations, or gain valuable insights from your data, our machine learning solutions can help.", 
+          "image": "https://www.techinventive.com/img/ML2.png" 
+        },
+        { "label": "Tailored Machine Learning Solutions", 
+          "text": "At Techinventive Software, we understand that every business is unique, which is why we work closely with our clients to understand their specific requirements and develop customized machine learning solutions that meet their needs. Our goal is to help you stay ahead of the competition by leveraging the latest machine learning technologies.", 
+          "image": "https://www.techinventive.com/img/ML3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "OpenAI", "image": "https://www.techinventive.com/img/services_icon/eos-icons_ai.svg" },
+           { "label": "ChatGPT", "image": "https://www.techinventive.com/img/services_icon/arcticons_openai-chatgpt.svg" },
+           { "label": "QuiliBot", "image": "https://www.techinventive.com/img/services_icon/bx_bot.svg" },
+           { "label": "Playground AI", "image": "https://www.techinventive.com/img/services_icon/tabler_input-ai.svg" },
+           { "label": "Python", "image": "https://www.techinventive.com/img/services_icon/Python.svg" },
+           { "label": "Ruby", "image": "https://www.techinventive.com/img/services_icon/Ruby.svg" },
+           { "label": "Pandas", "image": "https://www.techinventive.com/img/services_icon/devicon_pandas.svg" },
+           { "label": "NumPy", "image": "https://www.techinventive.com/img/services_icon/logos_numpy.svg" },
+           { "label": "PyTorch", "image": "https://www.techinventive.com/img/services_icon/skill-icons_pytorch-light.svg" },
+           { "label": "LangChain", "image": "https://www.techinventive.com/img/services_icon/file-icons_curl-lang.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our Machine Learning services and how we can help you achieve your business goals.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 3, 
+    "title": "Website Development", 
+    "intro": {
+      "title": "Web Development services",
+      "description": "The instant project that bootstraps the response page portrays a full authentication when the websites are created in HTML and CSS layouts. The developers are the experts to understand and implements the complex data associated with different modules related to the projects.",
+      "image": "https://www.techinventive.com/img/webdesign_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "Web Development",
+      "subtitle": "The instant project that bootstraps the response page portrays a full authentication when the websites are created in HTML and CSS layouts. The developers are the experts to understand and implements the complex data associated with different modules related to the projects.",
+      "items": [
+        { "label": "Web & App Development", 
+          "text": "Techinventive is offering the world’s best web development services for a wide range of industries in all over the world.", 
+          "image": "https://www.techinventive.com/img/WDS1.png" 
+        },
+        { "label": "Drupal Development", 
+          "text": "Techinventive has a team of professional Drupal website developers and designers providing the precisely tailored range of Drupal website.", 
+          "image": "https://www.techinventive.com/img/WDS2.png" 
+        },
+        { "label": "Custom CMS development", 
+          "text": "Our innovative website design company offers A level of custom website development services.", 
+          "image": "https://www.techinventive.com/img/WDS3.png" 
+        },
+        { "label": "E-Commerce Development", 
+          "text": "E-commerce website development services with utmost safety and security in each virtual transaction together with some pretty delightful features such as, advanced searching tools.", 
+          "image": "https://www.techinventive.com/img/WDS7.png" 
+        },
+        { "label": "PHP Development", 
+          "text": "We possess outstanding skills in PHP development company India solutions and frameworks, like CodeIgniter, CakePHP, Fusebox, DIY, Symfony and other applications.", 
+          "image": "https://www.techinventive.com/img/WDS6.png" 
+        },
+        { "label": "Wordpress Development", 
+          "text": "WordPress website development from Techinventive is the right choice for clients looking for a trustworthy name in this context.", 
+          "image": "https://www.techinventive.com/img/WDS4.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Python", "image": "https://www.techinventive.com/img/Python.svg" },
+           { "label": "Node.js", "image": "https://www.techinventive.com/img/Node.js.svg" },
+           { "label": "PHP", "image": "https://www.techinventive.com/img/PHP.svg" },
+           { "label": "Ruby", "image": "https://www.techinventive.com/img/Ruby.svg" },
+           { "label": "Flutter", "image": "https://www.techinventive.com/img/Flutter.svg" },
+           { "label": "React Native", "image": "https://www.techinventive.com/img/React%20Native.svg" },
+           { "label": "Laravel", "image": "https://www.techinventive.com/img/Laravel.svg" },
+           { "label": "Drupal", "image": "https://www.techinventive.com/img/Drupal-new.svg" },
+           { "label": "Moodle", "image": "https://www.techinventive.com/img/Moodle.svg" },
+           { "label": "Ruby on Rails", "image": "https://www.techinventive.com/img/Ruby%20on%20Rails.svg" },
+           { "label": "Django & Flux", "image": "https://www.techinventive.com/img/Django%20&%20Flux.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our web development service and how we can help you achieve your business goals with Drupal/ PHP/Ruby/Python/Nodejs/Golang.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 4, 
+    "title": "Website Designing", 
+    "intro": {
+      "title": "Web Designing services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/webdesign_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "Web Designing",
+      "subtitle": "Our web designers, design and attach codes in such a way that could be easily found in a one go on the internet. The visitors can seamlessly experience our special quality design while browsing on the iPhones, laptops and desktops.",
+      "items": [
+        { "label": "", 
+          "text": "Techinventive Software is a premier website designing company based in Delhi, India, offering a comprehensive range of web designing services to clients worldwide. Our team of experienced web designers is dedicated to delivering high-quality, visually appealing, and user-friendly websites that meet our clients' unique requirements.", 
+          "image": "https://www.techinventive.com/img/webdesign1.jpg" 
+        },
+        { "label": "", 
+          "text": "At Techinventive Software, we understand that every business is unique, which is why we work closely with our clients to understand their specific requirements and deliver tailored solutions that meet their needs. Our goal is to help our clients succeed in the competitive digital landscape by providing them with innovative and effective web designing solutions.", 
+          "image": "https://www.techinventive.com/img/webdesign2.jpg" 
+        },
+        { "label": "", 
+          "text": "With our web designing services, we help businesses create a strong online presence and effectively showcase their brand. Whether you're looking to build a new website from scratch or revamp your existing website, our web designers can help you achieve your goals.", 
+          "image": "https://www.techinventive.com/img/why_choose_us.jpeg" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "HTML5", "image": "https://www.techinventive.com/img/services_icon/devicon_html5-wordmark.svg" },
+           { "label": "JS", "image": "https://www.techinventive.com/img/services_icon/fa-brands_js-square.svg" },
+           { "label": "BootStrap", "image": "https://www.techinventive.com/img/services_icon/devicon_bootstrap.svg" },
+           { "label": "Elementor", "image": "https://www.techinventive.com/img/services_icon/simple-icons_elementor.svg" },
+           { "label": "React.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_react-dark.svg" },
+           { "label": "Material UI", "image": "https://www.techinventive.com/img/services_icon/skill-icons_materialui-light.svg" },
+           { "label": "Materialize", "image": "https://www.techinventive.com/img/services_icon/devicon_materializecss.svg" },
+           { "label": "Tailwind CSS", "image": "https://www.techinventive.com/img/services_icon/skill-icons_tailwindcss-light.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our web designing services and how we can help you achieve your business goals.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 5, 
+    "title": "Drupal", 
+    "intro": {
+      "title": "Drupal Development Services",
+      "description": "At Techinventive, we specialize in Drupal web development to help businesses build dynamic, scalable, and secure websites tailored to their unique needs. As one of the leading open-source content management systems, Drupal empowers organizations to achieve unmatched flexibility and customization for their online presence. Whether you’re looking to create a sleek corporate website, an engaging e-commerce platform, or a feature-rich enterprise portal, our Drupal experts are here to deliver cutting-edge solutions.",
+      "image": "https://www.techinventive.com/img/drupal_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "Our Drupal Development Services",
+      "subtitle": "At Techinventive, we offer a wide array of Drupal services designed to maximize your website's potential:",
+      "items": [
+        { "label": "Custom Drupal Website Development", 
+          "text": "We build bespoke websites from the ground up, tailored to your industry and specific requirements. Our development process ensures that your site reflects your brand while delivering optimal functionality and user experience.", 
+          "image": "https://www.techinventive.com/img/drupal2.png" 
+        },
+        { "label": "Drupal Module and Theme Development", 
+          "text": "Extend your website’s capabilities with custom modules and themes. Our developers craft solutions that meet your business goals, enhance performance, and provide an aesthetic that aligns with your brand identity.", 
+          "image": "https://www.techinventive.com/img/drupal3.png" 
+        },
+        { "label": "Migration to Drupal", 
+          "text": "Looking to migrate from another CMS? Our seamless Drupal migration service ensures zero data loss and minimal downtime, enabling a smooth transition to a more powerful platform.", 
+          "image": "https://www.techinventive.com/img/drupal2.png" 
+        },
+        { "label": "Drupal Upgrades and Maintenance", 
+          "text": "Keep your website up-to-date with our maintenance and support services. From upgrading to the latest Drupal version to fixing bugs and optimizing performance, we ensure your site runs flawlessly.", 
+          "image": "https://www.techinventive.com/img/drupal3.png" 
+        },
+        { "label": "E-commerce Solutions", 
+          "text": "Unlock the potential of your online store with Drupal-powered e-commerce platforms. Our team integrates top-notch features like product catalogs, secure payment gateways, and advanced analytics.", 
+          "image": "https://www.techinventive.com/img/drupal2.png" 
+        }
+
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Drupal", "image": "https://www.techinventive.com/img/services_icon/Drupal.svg" },
+           { "label": "PHP", "image": "https://www.techinventive.com/img/services_icon/PHP.svg" },
+           { "label": "HTML5", "image": "https://www.techinventive.com/img/services_icon/devicon_html5-wordmark.svg" },
+           { "label": "JS", "image": "https://www.techinventive.com/img/services_icon/fa-brands_js-square.svg" },
+           { "label": "React.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_react-dark.svg" },
+           { "label": "Composer", "image": "https://www.techinventive.com/img/services_icon/arcticons_composer.svg" },
+           { "label": "Lando", "image": "https://www.techinventive.com/img/services_icon/tabler_brand-zalando.svg" },
+           { "label": "BootStrap", "image": "https://www.techinventive.com/img/services_icon/devicon_bootstrap.svg" },
+           { "label": "Docker", "image": "https://www.techinventive.com/img/services_icon/skill-icons_docker.svg" },
+           { "label": "MySql", "image": "https://www.techinventive.com/img/services_icon/ph_file-sql-fill.svg" },
+           { "label": "Postgresql", "image": "https://www.techinventive.com/img/services_icon/akar-icons_postgresql-fill.svg" },
+           { "label": "MongoDB", "image": "https://www.techinventive.com/img/services_icon/MongoDB.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our Drupal website development service and how we can help you achieve your business goals with Drupal.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 6, 
+    "title": "Ruby on Rails", 
+    "intro": {
+      "title": "Ruby on Rail development services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/ruby_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Get Scalable Solutions", 
+          "text": "Techinventive Software is a leading Ruby on Rails development company offering high-quality Ruby on Rails development services to clients worldwide. Our team of experienced Ruby on Rails developers is dedicated to delivering robust, scalable, and efficient web applications that meet our clients' unique requirements.", 
+          "image": "https://www.techinventive.com/img/ruby1.png" 
+        },
+        { "label": "Golang Mastery", 
+          "text": "With our Ruby on Rails development services, we help businesses build cutting-edge web applications, e-commerce platforms, and content management systems using the latest Ruby on Rails frameworks and technologies. Whether you're looking to develop a new web application or enhance your existing Ruby on Rails project, we have the expertise and resources to deliver exceptional results.", 
+          "image": "https://www.techinventive.com/img/ruby2.png" 
+        },
+        { "label": "Custom Golang Solutions", 
+          "text": "At Techinventive Software, we understand the importance of delivering projects on time and within budget. That's why we work closely with our clients to understand their specific requirements and deliver tailored solutions that meet their needs. Our goal is to help our clients succeed in the competitive digital landscape by providing them with reliable, scalable, and innovative Ruby on Rails solutions.", 
+          "image": "https://www.techinventive.com/img/ruby3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Ruby", "image": "https://www.techinventive.com/img/services_icon/Ruby.svg" },
+           { "label": "Ruby on Rails", "image": "https://www.techinventive.com/img/services_icon/Ruby%20on%20Rails.svg" },
+           { "label": "React Native", "image": "https://www.techinventive.com/img/services_icon/React%20Native.svg" },
+           { "label": "HTML5", "image": "https://www.techinventive.com/img/services_icon/devicon_html5-wordmark.svg" },
+           { "label": "Shopify", "image": "https://www.techinventive.com/img/services_icon/shopify.svg" },
+           { "label": "RSpec", "image": "https://www.techinventive.com/img/services_icon/rspec.svg" },
+           { "label": "Sinatra", "image": "https://www.techinventive.com/img/services_icon/sinatra.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our Ruby application development services and how we can help you achieve your business goals with Ruby & Ruby on Rails.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 7, 
+    "title": "Python", 
+    "intro": {
+      "title": "Python development services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/python_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Innovation with Python", 
+          "text": "Techinventive Software is a leading Python development company based in Delhi, India, offering a wide range of Python development services to clients worldwide. Our team of experienced Python developers is dedicated to delivering high-quality, scalable, and efficient Python solutions that meet our clients' unique requirements.", 
+          "image": "https://www.techinventive.com/img/python1.png" 
+        },
+        { "label": "Python Development Expertise", 
+          "text": "With our Python development services, we help businesses leverage the power of Python programming language to develop robust web applications, data analytics solutions, machine learning models, and more. Whether you're looking to build a web application from scratch or enhance your existing Python-based system, we have the expertise and resources to make it happen.", 
+          "image": "https://www.techinventive.com/img/python2.png" 
+        },
+        { "label": "Python Development Edge!", 
+          "text": "At Techinventive Software, we understand the importance of staying ahead of the curve in today's fast-paced digital world. That's why we stay up-to-date with the latest trends and technologies in Python development to ensure that our clients receive cutting-edge solutions that drive business growth and success.", 
+          "image": "https://www.techinventive.com/img/python3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Python", "image": "https://www.techinventive.com/img/services_icon/Python.svg" },
+           { "label": "Django & Flux", "image": "https://www.techinventive.com/img//Django%20&%20Flux.svg" },
+           { "label": "Node.js", "image": "https://www.techinventive.com/img/services_icon/Node.js.svg" },
+           { "label": "Postgresql", "image": "https://www.techinventive.com/img/services_icon/akar-icons_postgresql-fill.svg" },
+           { "label": "MongoDB", "image": "https://www.techinventive.com/img/services_icon/MongoDB.svg" },
+           { "label": "NoSQL DB", "image": "https://www.techinventive.com/img/services_icon/mdi_sql-query.svg" },
+           { "label": "DynamicDB", "image": "https://www.techinventive.com/img/services_icon/material-symbols_dynamic-form-rounded.svg" },
+           { "label": "MySql", "image": "https://www.techinventive.com/img/services_icon/ph_file-sql-fill.svg" },
+           { "label": "Docker", "image": "https://www.techinventive.com/img/services_icon/skill-icons_docker.svg" },
+           { "label": "Pandas", "image": "https://www.techinventive.com/img/services_icon/devicon_pandas.svg" },
+           { "label": "LangChain", "image": "https://www.techinventive.com/img/services_icon/file-icons_curl-lang.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our Python development services and how we can help you achieve your business goals with Python.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 8, 
+    "title": "Blockchain", 
+    "intro": {
+      "title": "Blockchain Development Services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/Blockchain_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Empowering Businesses Globally", 
+          "text": "Techinventive Software is a leading blockchain development company based in Delhi, India, offering comprehensive blockchain solutions to businesses worldwide. Our team of blockchain experts is dedicated to delivering secure, transparent, and efficient blockchain solutions that drive business growth and innovation.", 
+          "image": "https://www.techinventive.com/img//Blockchain%201.png" 
+        },
+        { "label": "Streamlined Blockchain Solutions", 
+          "text": "With our blockchain services, we help businesses leverage the power of blockchain technology to streamline operations, reduce costs, and enhance security. Whether you're looking to develop a blockchain-based application, implement smart contracts, or explore the potential of decentralized finance (DeFi), we have the expertise to meet your needs.", 
+          "image": "https://www.techinventive.com/img/Blockchain%202.png" 
+        },
+        { "label": "Futuristic Solutions, Tailored for You", 
+          "text": "At Techinventive Software, we understand the importance of staying ahead of the curve in today's rapidly evolving business landscape. That's why we work closely with our clients to understand their specific requirements and develop customized blockchain solutions that align with their business goals.", 
+          "image": "https://www.techinventive.com/img/Blockchain%203.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Cryptography", "image": "https://www.techinventive.com/img/services_icon/unjs_uncrypto.svg" },
+           { "label": "Bitcoin", "image": "https://www.techinventive.com/img/services_icon/logos_bitcoin.svg" },
+           { "label": "Ethereum", "image": "https://www.techinventive.com/img/services_icon/logos_ethereum.svg" },
+           { "label": "Blockchain", "image": "https://www.techinventive.com/img/services_icon/blockchain.svg" },
+           { "label": "Workflows", "image": "https://www.techinventive.com/img/services_icon/workflow.svg" },
+           { "label": "Solidity", "image": "https://www.techinventive.com/img/services_icon/Frame%2013.svg" },
+           { "label": "Python", "image": "https://www.techinventive.com/img/services_icon/Python.svg" },
+           { "label": "Ruby on Rails", "image": "https://www.techinventive.com/img/services_icon/Ruby%20on%20Rails.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our blockchain services and how we can help your business succeed in the digital age.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 9, 
+    "title": "Game Development", 
+    "intro": {
+      "title": "Game Development Services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/Game_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Crafting Immersive Experiences", 
+          "text": "Techinventive Software is a premier game development company based in Delhi, India, offering a wide range of game development services to clients worldwide. Our team of experienced game developers is passionate about creating engaging and immersive gaming experiences that captivate players and drive engagement.", 
+          "image": "https://www.techinventive.com/img/GD1.png" 
+        },
+        { "label": "From Concept to Creation", 
+          "text": "With our game development services, we help businesses and individuals bring their game ideas to life. Whether you're looking to develop a mobile game, PC game, or console game, we have the expertise and resources to make it happen. From concept and design to development and testing, we handle every aspect of the game development process to ensure that your game meets the highest standards of quality and performance.", 
+          "image": "https://www.techinventive.com/img/GD2.png" 
+        },
+        { "label": "Elevating Your Vision", 
+          "text":  "At Techinventive Software, we understand that every game is unique, which is why we work closely with our clients to understand their vision and requirements. Our goal is to create games that not only meet but exceed our clients' expectations, helping them stand out in the competitive gaming market.", 
+          "image": "https://www.techinventive.com/img/GD3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Java", "image": "https://www.techinventive.com/img/services_icon/java.svg" },
+           { "label": "Node.js", "image": "https://www.techinventive.com/img/services_icon/Node.js.svg" },
+           { "label": "Python", "image": "https://www.techinventive.com/img/services_icon/Python.svg" },
+           { "label": "Ruby", "image": "https://www.techinventive.com/img/services_icon/Ruby.svg" },
+           { "label": "PHP", "image": "https://www.techinventive.com/img/services_icon/PHP.svg" },
+           { "label": "React Native", "image": "https://www.techinventive.com/img/services_icon/React%20Native.svg" },
+           { "label": "Flutter", "image": "https://www.techinventive.com/img/services_icon/Flutter.svg" },
+           { "label": "Angular.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_angular-light.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our game applications development services and how we can help you achieve your business goals with game development service.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 10, 
+    "title": "Node.Js", 
+    "intro": {
+      "title": "Node Js development services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/nodejs_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Premier Node.js Services", 
+          "text": "Techinventive Software is a leading Node.js development company based in Delhi, India, offering top-notch Node.js development services to clients worldwide. Our team of skilled Node.js developers is passionate about leveraging the power of Node.js to create fast, scalable, and efficient web applications that meet our clients' unique requirements.", 
+          "image": "https://www.techinventive.com/img/node1.png" 
+        },
+        { "label": "Driving Innovation", 
+          "text": "With our Node.js development services, we help businesses build high-performance web applications, real-time applications, and APIs using the latest Node.js frameworks and technologies. Whether you're looking to develop a new web application or enhance your existing Node.js project, we have the expertise and experience to deliver exceptional results.", 
+          "image": "https://www.techinventive.com/img/node2.png" 
+        },
+        { "label": "Customized Node.js Solutions", 
+          "text": "At Techinventive Software, we understand that every project is unique, which is why we work closely with our clients to understand their specific requirements and deliver tailored solutions that exceed their expectations. Our goal is to help our clients succeed in the competitive digital landscape by providing them with reliable, scalable, and innovative Node.js solutions.", 
+          "image": "https://www.techinventive.com/img/node3.png" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "Node.js", "image": "https://www.techinventive.com/img/services_icon/Node.js.svg" },
+           { "label": "Angular.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_angular-light.svg" },
+           { "label": "React.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_react-dark.svg" },
+           { "label": "MongoDB", "image": "https://www.techinventive.com/img/services_icon/MongoDB.svg" },
+           { "label": "MySql", "image": "https://www.techinventive.com/img/services_icon/ph_file-sql-fill.svg" },
+           { "label": "NPM", "image": "https://www.techinventive.com/img/services_icon/skill-icons_npm-dark.svg" },
+           { "label": "Express.js", "image": "https://www.techinventive.com/img/services_icon/la_js.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our MEAN/MERN development services and how we can help you achieve your business goals with Node.js/Express.js.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 11, 
+    "title": "Golang", 
+    "intro": {
+      "title": "Golang Development Services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/golang_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "What Sets Us Apart",
+      "subtitle": "Our Commitment to Excellence: Guiding Principles That Drive Us",
+      "items": [
+        { "label": "Get Scalable Solutions", 
+          "text": "Techinventive Software is a leading Golang development company based in Delhi, India, offering top-notch Golang development services to clients worldwide. Our team of experienced Golang developers is dedicated to delivering high-quality, scalable, and efficient Golang solutions that meet our clients' unique requirements.", 
+          "image": "https://www.techinventive.com/img//golang1.svg" 
+        },
+        { "label": "Golang Mastery", 
+          "text": "With our Golang development services, we help businesses leverage the power of Golang programming language to develop robust and high-performance applications. Whether you're looking to build a web application, microservices, or APIs, our Golang experts can help you achieve your goals.", 
+          "image": "https://www.techinventive.com/img/golang2.svg" 
+        },
+        { "label": "Custom Golang Solutions", 
+          "text": "At Techinventive Software, we understand the importance of delivering projects on time and within budget. That's why we work closely with our clients to understand their specific requirements and deliver tailored solutions that meet their needs. Our goal is to help our clients succeed in the competitive digital landscape by providing them with reliable, scalable, and innovative Golang solutions.", 
+          "image": "https://www.techinventive.com/img//golang3.svg" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+           { "label": "GoLang", "image": "https://www.techinventive.com/img/services_icon/golang.svg" },
+           { "label": "HTML5", "image": "https://www.techinventive.com/img/services_icon/devicon_html5-wordmark.svg" },
+           { "label": "Docker", "image": "https://www.techinventive.com/img/services_icon/skill-icons_docker.svg" },
+           { "label": "MySql", "image": "https://www.techinventive.com/img/services_icon/ph_file-sql-fill.svg" },
+           { "label": "MongoDB", "image": "https://www.techinventive.com/img/services_icon/MongoDB.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our Golang development services and how we can help you achieve your business goals with Golang & Go.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  },
+  { "id": 12, 
+    "title": "PSD to HTML", 
+    "intro": {
+      "title": "PSD to HTML Conversion Services",
+      "description": "Our team consists of highly skilled professionals with expertise in a wide range of technologies and industries.",
+      "image": "https://www.techinventive.com/img/psdtohtml_banner.svg"
+    },
+    "counters": [
+      { "label": "Countries", "start": 0, "end": 50, "duration": 1000 },
+      { "label": "Working Hours", "start": 0, "end": 100000, "duration": 1000 },
+      { "label": "Live Projects", "start": 0, "end": 500, "duration": 1000 }
+    ],
+    "highlights": {
+      "title": "PSD to HTML Conversion",
+      "subtitle": "Our web designers, design and attach codes in such a way that could be easily found in a one go on the internet. The visitors can seamlessly experience our special quality design while browsing on the iPhones, laptops and desktops. We can develop fresh websites from scratch and optimize your current website with the mobile responsive design guidelines.",
+      "items": [
+        { "label": "", 
+          "text": "Techinventive Software offers high-quality PSD to HTML conversion services to transform your designs into fully functional and responsive websites. Our team of skilled developers ensures pixel-perfect conversion with clean, well-structured HTML and CSS code.", 
+          "image": "https://www.techinventive.com/img/psd1.jpg" 
+        },
+        { "label": "", 
+          "text": "With our PSD to HTML conversion services, you can expect fast turnaround times and high-quality results. We pay attention to detail to ensure that your website looks and functions exactly as intended across all devices and browsers.", 
+          "image": "https://www.techinventive.com/img/psd2.jpg" 
+        },
+        { "label": "", 
+          "text": "Whether you have a single-page design or a complex website layout, we have the expertise to handle your PSD to HTML conversion needs. Contact us today to learn more about our PSD to HTML conversion services and how we can help you bring your designs to life on the web.", 
+          "image": "https://www.techinventive.com/img/webdesign1.jpg" 
+        }
+      ]
+    },
+    "techStack": {
+        "title": "Programming Languages & Frameworks:",
+        "items": [
+          { "label": "HTML5", "image": "https://www.techinventive.com/img/services_icon/devicon_html5-wordmark.svg" },
+          { "label": "JS", "image": "https://www.techinventive.com/img/services_icon/fa-brands_js-square.svg" },
+          { "label": "BootStrap", "image": "https://www.techinventive.com/img/services_icon/devicon_bootstrap.svg" },
+          { "label": "Elementor", "image": "https://www.techinventive.com/img/services_icon/simple-icons_elementor.svg" },
+          { "label": "React.js", "image": "https://www.techinventive.com/img/services_icon/skill-icons_react-dark.svg" },
+          { "label": "Material UI", "image": "https://www.techinventive.com/img/services_icon/skill-icons_materialui-light.svg" },
+          { "label": "Materialize", "image": "https://www.techinventive.com/img/services_icon/devicon_materializecss.svg" },
+          { "label": "Tailwind CSS", "image": "https://www.techinventive.com/img/services_icon/skill-icons_tailwindcss-light.svg" }
+        ]
+    },  
+    "projects": {
+      "title": "Past projects we have completed",
+      "items":[
+          {
+            "id": 1,
+            "title": "SKArtificial intelligence",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for an informative website for Healthcare professionals using CMS",
+            "solution": "Designed & Developed a Website from Scratch using latest Drupal Version. This is an informative website for their Community Members and Healthcare Professionals for Question & Answers related to Vaccination.",
+            "link": "https://www.skai.org.au",
+            "websiteImages":[
+                "https://www.techinventive.com/img/OR7V111%202.png"
+            ]
+          },
+          {
+            "id": 2,
+            "title": "EXCLUSIFE",
+            "category": ["User Interface", "User Experience", "Web", "Mobile"],
+            "businessChallenge": "looking for B2B Marketing platform for offline retailers to generate more business and improve their performance",
+            "solution": "Team developed a Marketing platform for improving business performance of retailers via CRM, Marketing Automation and target customers.",
+            "link": "https://www.exclusife.com",
+            "websiteImages":[
+                "https://www.techinventive.com/img/tech/3/OR7V111%202.png"
+            ]
+          }
+      ]
+        
+    },
+    "contact":{
+      "title": "Contact us today to learn more about our PSD2HTML5 services and how we can help you achieve your business goals.",
+      "link":"Get In Touch"
+    },
+    "relatedServices":{
+      "title": "Other services",
+      "items":[
+        {
+          "id":1,
+          "title": "Artificial intelligence",
+          "description":"Techinventive Software is a leading AI service provider based in Delhi, India, offering cutting-edge solutions to businesses seeking to harness the power of AI. Our team of AI experts is dedicated to delivering innovative AI solutions that drive business growth and efficiency.",
+          "link": "/services/artificial-intelligence",
+          "image": "https://www.techinventive.com/img/Frame55.png"
+        },
+        {
+          "id":2,
+          "title": "Machine learning",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/machine-learning"
+        },
+        {
+          "id":3,
+          "title": "Block Chain",
+          "description":"Techinventive Software is a premier provider of machine learning services in Delhi, India. We specialize in developing innovative machine learning solutions that help businesses unlock the full potential of their data.",
+          "link": "/services/blockchain"
+        }
+      ]
+    }
+  }
+]
