@@ -1,54 +1,51 @@
-[
-  title: "Thank you for choosing Techinventive Software. This Privacy Policy describes how we collect, use, and disclose information when you use our services, including our website and any software applications.",
-  sections: [
+{
+  "title": "Thank you for choosing Techinventive Software. This Privacy Policy describes how we collect, use, and disclose information when you use our services, including our website and any software applications.",
+  "sections": [
     {
-      heading: "Information We Collect",
-      subheading: "When you use our Services, we may collect certain information, including:",
-      points: [
+      "heading": "Information We Collect",
+      "subheading": "When you use our Services, we may collect certain information, including:",
+      "points": [
         "Personal Information: This may include your name, email address, phone number, and other similar information.",
         "Usage Information: We may collect information about how you use our Services, such as the pages you visit, the features you use, and the actions you take.",
-        "Device Information: We may collect information about the device you use to access our Services, such as your IP address, browser type, and operating system.",
-      ],
+        "Device Information: We may collect information about the device you use to access our Services, such as your IP address, browser type, and operating system."
+      ]
     },
     {
-      heading: "How We Use Your Information",
-      subheading: "We may use the information we collect for various purposes, including:",
-      points: [
+      "heading": "How We Use Your Information",
+      "subheading": "We may use the information we collect for various purposes, including:",
+      "points": [
         "Providing and maintaining our Services.",
         "Improving our Services and developing new features.",
         "Communicating with you, including responding to your inquiries and providing customer support.",
         "Marketing and advertising our products and services.",
-        "Protecting our rights and interests, and the rights and interests of other users.",
-      ],
+        "Protecting our rights and interests, and the rights and interests of other users."
+      ]
     },
     {
-      heading: "Information Sharing and Disclosure",
-      subheading: "We may share your information with third parties for various purposes, including:",
-      points: [
+      "heading": "Information Sharing and Disclosure",
+      "subheading": "We may share your information with third parties for various purposes, including:",
+      "points": [
         "With service providers who help us operate our Services.",
         "With our affiliates and partners for marketing and advertising purposes.",
         "In response to legal requests or to protect our rights.",
-        "With your consent or as otherwise required or permitted by law.",
-      ],
+        "With your consent or as otherwise required or permitted by law."
+      ]
     },
     {
-      heading: "Your Choices",
-      content:
-        "You may have certain choices regarding the information we collect and how it is used. For example, you can choose not to provide certain information or to opt out of certain uses of your information. Please note that some features of our Services may not be available if you choose not to provide certain information.",
+      "heading": "Your Choices",
+      "content": "You may have certain choices regarding the information we collect and how it is used. For example, you can choose not to provide certain information or to opt out of certain uses of your information. Please note that some features of our Services may not be available if you choose not to provide certain information."
     },
     {
-      heading: "Security",
-      content:
-        "We take the security of your information seriously and take reasonable measures to protect it. However, no method of transmission over the Internet or electronic storage is 100% secure, so we cannot guarantee its absolute security.",
+      "heading": "Security",
+      "content": "We take the security of your information seriously and take reasonable measures to protect it. However, no method of transmission over the Internet or electronic storage is 100% secure, so we cannot guarantee its absolute security."
     },
     {
-      heading: "Changes to this Privacy Policy",
-      content:
-        "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.",
+      "heading": "Changes to this Privacy Policy",
+      "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page."
     },
     {
-      heading: "Contact Us",
-      content: "If you have any questions about this Privacy Policy, please contact us at: marketing@techinventive.com",
-    },
-  ],
-]
+      "heading": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at: marketing@techinventive.com"
+    }
+  ]
+}
